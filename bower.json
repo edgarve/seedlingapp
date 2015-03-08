@@ -1,0 +1,25 @@
+{
+  "name": "seedlingapp",
+  "version": "0.0.0",
+  "authors": [
+    "Edgar Vargas <edgar@designbyagent.com>"
+  ],
+  "description": "receipe app for ally",
+  "keywords": [
+    "polymer",
+    "food",
+    "app"
+  ],
+  "license": "MIT",
+  "homepage": "http://edgarvargas.me",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.5.5"
+  }
+}
